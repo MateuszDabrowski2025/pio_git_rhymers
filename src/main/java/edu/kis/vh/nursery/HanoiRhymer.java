@@ -2,6 +2,7 @@ package edu.kis.vh.nursery;
 
 public class HanoiRhymer extends defaultCountingOutRhymer {
 
+	// 4.1 poprawa nazw klas
 
 	int totalRejected = 0;
 
